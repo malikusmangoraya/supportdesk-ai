@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://supportdesk-ai.com/sitemap.xml
